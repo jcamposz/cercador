@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.github.jcamposz.cercador</id>
+
+  <name>Cercador</name>
+  <summary>This app use tracker to search using elementary apps style</summary>
+
+  <metadata_license>CC-BY-4.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+
+  <description>
+    <p>
+      This app use tracker to search using elementary apps style
+    </p>
+  </description>
+
+  <launchable type="desktop-id">com.github.jcamposz.cercador.desktop</launchable>
+</component>

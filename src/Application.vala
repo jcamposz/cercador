@@ -1,3 +1,7 @@
+/*
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * SPDX-FileCopyrightText: 2021 Juan Campos  <juan.camposzambrana@gmail.com>
+ */
 public class MyApp : Gtk.Application {
     public MyApp () {
         Object (

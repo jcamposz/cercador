@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=Cercador
+Comment=Proves that we can use Vala and Gtk
+Categories=Utilities;
+
+Icon=com.github.jcamposz.cercador
+Exec=com.github.jcamposz.cercador
+Terminal=false
